@@ -75,7 +75,7 @@
         - Watch.sass 
         - Save 
 
-```css
+```scss
 $message
 
 div {

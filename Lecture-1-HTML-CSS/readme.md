@@ -38,8 +38,8 @@
     - Margin is on the outside of the element 
     - ![Margin ad Padding](margin-padding.png)
 - Foo = is a generic name. 
-- Id = uses #foo 
-- Class = uses .bar 
+- Id = uses (#) #foo 
+- Class = uses (.) .bar 
 - Specificity 
     - Inline 
     - Id 

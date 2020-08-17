@@ -80,3 +80,10 @@ Pseudoelement Selector
         - | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |   
           | - | - | - | - | - | - | - | - | - | -- | -- | -- |
           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+- SASS is an extension of CSS. It has an extension of .scss. 
+    - But browsers don't know SASS. 
+    - You need to compile it from SASS - CSS. 
+    - [How to Install SASS on Windows](https://www.youtube.com/watch?v=Do7ivdaQU8Y) 
+    - SASS live compiler 
+        - Watch.sass 
+        - Save 

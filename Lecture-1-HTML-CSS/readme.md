@@ -37,8 +37,6 @@
     - Paddding is inside the element 
     - Margin is on the outside of the element 
     - ![Margin ad Padding](margin-padding.png)
- 
-
 - Foo = is a generic name. 
 - Id = uses #foo 
 - Class = uses .bar 
@@ -48,17 +46,6 @@
     - Class 
     - Type 
     - CSS Selectors 
-a, 
-Multiple Element Selector 
-Descendant Selector 
-Child Selector 
-Adjacent Sibling Selector 
-Attribute Selector 
-Pseudoclass Selector 
-Pseudoelement Selector 
- 
-
- 
 
 - Responsive Design 
     - Viewport 

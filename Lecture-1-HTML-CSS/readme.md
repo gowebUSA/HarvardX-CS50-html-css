@@ -45,7 +45,7 @@
     - Id 
     - Class 
     - Type 
-    - CSS Selectors 
+    - ![CSS Selectors}(css-selector.png) 
 
 - Responsive Design 
     - Viewport 

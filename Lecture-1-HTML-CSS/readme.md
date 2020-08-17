@@ -82,3 +82,14 @@
             }
             ```
             Defines all [languages](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) known to GitHb.
+        - Step by Step
+            * Go to GitHub and copy clone link
+            * Open link on GitHUb Desktop
+                - Open in Visual Studio Code
+            * All files will show in VS Code.
+                - Make changes in VS Code.    
+            * Save your work in VS Code
+            * Go back to GitHub Desktop and submit Commit.
+            * From there, you can Fetch origin:
+                - Push changes
+                - Pull changes from GitHub if you made anyy changes on the web.

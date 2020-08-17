@@ -82,3 +82,4 @@ div {
     font-color: red;
 }
 ```
+Defines all [languages](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) known to GitHb.

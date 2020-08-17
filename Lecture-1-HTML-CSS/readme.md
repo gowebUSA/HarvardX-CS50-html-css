@@ -92,4 +92,4 @@
             * Go back to GitHub Desktop and submit Commit.
             * From there, you can Fetch origin:
                 - Push changes
-                - Pull changes from GitHub if you made anyy changes on the web.
+                - Pull changes from GitHub if you made any changes on the web.

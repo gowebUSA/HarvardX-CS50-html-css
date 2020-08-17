@@ -81,7 +81,7 @@
                 font-color: red;
             }
             ```
-            Defines all [languages](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) known to GitHb.
+            Defines all [languages](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) known to GitHub. See instructions [here](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks).
         - Step by Step
             * Go to GitHub and copy clone link
             * Open link on GitHUb Desktop

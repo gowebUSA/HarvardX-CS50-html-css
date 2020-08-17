@@ -78,3 +78,5 @@ Pseudoelement Selector
             - Components 
         - Bootstrap divides every row  into a  12  column units 
         - | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |   
+          |--------------------------------------------------|
+          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |

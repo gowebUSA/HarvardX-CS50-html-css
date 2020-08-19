@@ -21,3 +21,4 @@
 - `def __init__` = special function for self
 - `def` = define
 - `Function():` = ends with a colon :
+- `elif` = else if

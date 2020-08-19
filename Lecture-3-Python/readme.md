@@ -4,7 +4,7 @@
 
 1. [conditions.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/conditions.py)
 1. [hello.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/hello.py)
-1. [name.py]https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/name.py()
+1. [name.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/name.p)
 1. [sequences.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/sequences.py)
 1. [lists.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/lists.py)
 1. [sets.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/sets.py)

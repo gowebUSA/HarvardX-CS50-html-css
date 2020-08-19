@@ -17,7 +17,7 @@
 1. [flight1.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/flight1.py)
 
 ## Key Points
-- f = to Concatenate (f" blah {concatenate}")
-- def `__init__` = special function for self
-- def = define
-- Function(): = ends with a colon :
+- `f`` = to Concatenate (f" blah {concatenate}")
+- `def __init__` = special function for self
+- `def` = define
+- `Function():` = ends with a colon :

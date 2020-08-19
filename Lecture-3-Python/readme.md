@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-1. conditions.py
-1. hello.py
-1. name.py
-1. sequences.py
-1. lists.py
-1. sets.py
-1. loops.py
-1. dictionaries.py
-1. functions.py
-1. squares.py
-1. [classes.py](/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes.py)
-1. classes1.py
-1. flight1.py
+1. [conditions.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/conditions.py)
+1. [hello.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/hello.py)
+1. [name.py]https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/name.py()
+1. [sequences.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/sequences.py)
+1. [lists.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/lists.py)
+1. [sets.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/sets.py)
+1. [loops.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/loops.py)
+1. [dictionaries.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/dictionaries.py)
+1. [functions.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/functions.py)
+1. [squares.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/squares.py)
+1. [classes.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes.py)
+1. [classes1.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes1.py)
+1. [flight1.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/flight1.py)

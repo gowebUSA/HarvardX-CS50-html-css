@@ -12,6 +12,6 @@
 1. dictionaries.py
 1. functions.py
 1. squares.py
-1. classes.py
+1. [classes.py](/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes.py)
 1. classes1.py
 1. flight1.py

@@ -40,5 +40,5 @@ for person2 in people2:
     else:
         print(f"No available seats for {person2}")     
 
-# ut the flight is full from flight only has 3. SO even if you add people2, 
-# there are no more seats.
+# But the flight is full from flight, only has 3 capacity. So even if you add people2, 
+    # there are no more seats.

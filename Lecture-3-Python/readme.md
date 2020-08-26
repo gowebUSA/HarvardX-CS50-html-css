@@ -15,6 +15,7 @@
 1. [classes.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes.py)
 1. [classes1.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/classes1.py)
 1. [flight1.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/flight1.py)
+1. [decorators.py](https://github.com/gowebUSA/HarvardX-CS50-html-css/blob/master/Lecture-3-Python/decorators.py) - Used for permissions in a CMS.
 
 ## Key Points
 - `f` = to Concatenate (f" blah {concatenate}")

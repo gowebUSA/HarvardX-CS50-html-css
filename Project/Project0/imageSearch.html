@@ -1,13 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <style> 
+            #rcorners {
+            border-radius: 25px;
+            border: 1px solid #D3D3D3;
+            padding: 20px; 
+            width: 500px;
+            height: 1px;  
+            }
+	    </style> 
         <title>Search By Image</title>
     </head>
     <body>
-        <form action="http://images.google.com/imghp">
-			<input type="text" name="sbi">
-			<input type="submit" value="Google Image Search" />
-		</form>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p style="text-align:right; margin: 0px 50px 0px"><a href="index.html">Search All</a> | <a href="advancedSearch.html">Advanced Search</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+	    <center>
+            <div class="form-group">
+            <form action="http://images.google.com/images">
+		    	    <input type="text" name="q" class="form-control" id="rcorners" /> <br />
+		    	    <input type="submit" value="Image Search" />
+                </form>
+            </div>
     </body>
 </html>
 	

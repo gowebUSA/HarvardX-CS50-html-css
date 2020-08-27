@@ -1,12 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <style>
+            .button {
+                background-color: #099ceb;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+            }
+            table {
+                border: 0px solid black;
+                border-collapse: collapse;
+            }
+            td, th {
+                border: 0px solid black;
+                padding: 5px;
+            }
+	    </style>
         <title>Search</title>
     </head>
     <body>
-        <form action="https://google.com/advanced_search">
-            <input type="text" name="q">
-            <input type="submit" value="Google Search">
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p style="text-align:right; margin: 0px 50px 0px"><a href="index.html">Search All</a> | <a href="imageSearch.html">Image Search</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+	<table style="margin: 0px 50px 0px">
+        <tbody>
+            <form action="https://google.com/search">
+            <tr>
+                <td>All these words:
+                </td>
+                <td><input type="text" name="as_q" size="80">
+                </td>
+            </tr>
+            <tr>
+                <td>Exact word/phrase:
+                </td>
+                <td><input type="text" name="as_epq" size="80">
+                </td>            
+            <tr>
+                <td>Any of these words
+                </td>
+                <td><input type="text" name="as_oq" size="80">
+                </td>             
+            </tr>
+            <tr>
+                <td>None of these words:
+                </td>
+                <td><input type="text" name="as_eq" size="80">
+                </td>            
+            </tr>
+        </tbody>
+    </table>
+    <center>
+            <br /><input type="submit" class="button" value="Advanced Search">
         </form>
+    </center>
     </body>
 </html>

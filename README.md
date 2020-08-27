@@ -13,3 +13,6 @@
     "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
 }
 ```
+### Submissions
+- https://submit.cs50.io/users/gowebUSA
+- https://github.com/me50/gowebUSA

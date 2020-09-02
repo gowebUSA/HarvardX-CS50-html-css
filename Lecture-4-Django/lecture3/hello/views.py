@@ -30,4 +30,4 @@ def ruby(request):
 def greet(request, name):
     return render(request, "hello/greet.html", {
         "name":  name.capitalize()   #this is a python dictionary, key/value pair
-    })
+    })                              #this isalos looks like a json file

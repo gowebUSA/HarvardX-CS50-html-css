@@ -12,7 +12,7 @@
 
   - /lecture3/urls.py and add tasks. 
 
-   `path('tasks/', include("tasks.urls")), ``
+   `path('tasks/', include("tasks.urls")),`
 
   - Create /lecture3/tasks/urls.py 
 

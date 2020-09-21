@@ -1,39 +1,39 @@
-200917 
+- 200917 
 
-16 Create new app called tasks 
+- 16 Create new app called tasks 
 
-On Terminal:  
+ - On Terminal:  
 
-python manage.py startapp tasks 
+ - python manage.py startapp tasks 
 
-Go to /lecture/settings.py and add tasks 
+ - Go to /lecture/settings.py and add tasks 
 
-'tasks', 
+  `'tasks',` 
 
-/lecture3/urls.py and add tasks. 
+ - /lecture3/urls.py and add tasks. 
 
-path('tasks/', include("tasks.urls")), 
+`path('tasks/', include("tasks.urls")), ``
 
-Create /lecture3/tasks/urls.py 
+ - Create /lecture3/tasks/urls.py 
 
-from django.urls import path 
+`from django.urls import path 
 
 from . import views 
 
 urlpatterns = [ 
 
-    path("", views.index, name="index") 
+    path("", views.index, name="index") `
 
  
 
-Go to /lecture3/tasks/views.py 
+ - Go to /lecture3/tasks/views.py 
 
-Create /lecture3/tasks/templates/tasks/index.html 
+ - Create /lecture3/tasks/templates/tasks/index.html 
 
-Run server 
+-  Run server 
 
-Python manage.py runserver 
+ - Python manage.py runserver 
 
-200921 
+- 200921 
 
-Create a function in /tasks/views.py 
+- Create a function in /tasks/views.py 

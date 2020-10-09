@@ -29,9 +29,9 @@
 - https://github.com/me50/gowebUSA
 
 ### Projects
-- [Search](https://cs50.harvard.edu/web/2020/projects/0/)
-- [Wiki](https://cs50.harvard.edu/web/2020/projects/1/)
-- [Commerce](https://cs50.harvard.edu/web/2020/projects/2/)
+- [0 Search*](https://cs50.harvard.edu/web/2020/projects/0/)
+- [1 Wiki](https://cs50.harvard.edu/web/2020/projects/1/)
+- [2 Commerce](https://cs50.harvard.edu/web/2020/projects/2/)
 
 ### Legend
 - `*` Done

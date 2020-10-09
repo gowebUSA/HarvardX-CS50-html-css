@@ -1,5 +1,16 @@
 # HarvardX-CS50-html-css
 
+### Table Of Contents
+- HTML, CSS*
+- Git*
+- Python*
+- Django*
+- SQL, Models, and Migrations
+- JavaScript
+- User Interfaces
+- Testing, CI/CD
+- Scalability and Security
+
 ### settngs.json
 - Home
 ```
@@ -21,3 +32,6 @@
 - [Search](https://cs50.harvard.edu/web/2020/projects/0/)
 - [Wiki](https://cs50.harvard.edu/web/2020/projects/1/)
 - [Commerce](https://cs50.harvard.edu/web/2020/projects/2/)
+
+### Legend
+- * Done
